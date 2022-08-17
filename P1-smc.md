@@ -33,7 +33,7 @@ The persistence-layer system shall use JDBC to connect to a Postgres database. T
 
 # User Stories
 ### Requirements:
-#### Guest:
+#### User:
  - As a user, I can create a new journal entry for an adventure
  - As a user, I can view the adventures in my journal
  - As a user, I can edit my previous journal entries
